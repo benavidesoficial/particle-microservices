@@ -1,0 +1,26 @@
+{
+  "name": "@skeleton/microservices",
+  "version": "0.1.0",
+  "description": "Mini Framework for Microservices",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benavidesoficial/skeleton-microservices.git"
+  },
+  "author": "Miguel Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavidesoficial/skeleton-microservices/issues"
+  },
+  "homepage": "https://github.com/benavidesoficial/skeleton-microservices#readme",
+  "dependencies": {
+    "glob": "7.1.2"
+  }
+}
