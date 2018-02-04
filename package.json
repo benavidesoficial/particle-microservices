@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/benavidesoficial/particle-microservices/issues"
   },
-  "homepage": "https://github.com/benavidesoficial/particle-microservices#readme"
+  "homepage": "https://github.com/benavidesoficial/particle-microservices#readme",
+  "dependencies": {
+    "glob": "7.1.2"
+  }
 }
