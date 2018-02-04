@@ -1,5 +1,5 @@
 {
-  "name": "@particle/microservices",
+  "name": "@skeleton/microservices",
   "version": "0.1.0",
   "description": "Mini Framework for Microservices",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benavidesoficial/particle-microservices.git"
+    "url": "git+https://github.com/benavidesoficial/skeleton-microservices.git"
   },
   "author": "Miguel Benavides",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benavidesoficial/particle-microservices/issues"
+    "url": "https://github.com/benavidesoficial/skeleton-microservices/issues"
   },
-  "homepage": "https://github.com/benavidesoficial/particle-microservices#readme",
+  "homepage": "https://github.com/benavidesoficial/skeleton-microservices#readme",
   "dependencies": {
     "glob": "7.1.2"
   }
