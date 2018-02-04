@@ -1,0 +1,23 @@
+{
+  "name": "@particle/microservices",
+  "version": "0.1.0",
+  "description": "Mini Framework for Microservices",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benavidesoficial/particle-microservices.git"
+  },
+  "author": "Miguel Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavidesoficial/particle-microservices/issues"
+  },
+  "homepage": "https://github.com/benavidesoficial/particle-microservices#readme"
+}
