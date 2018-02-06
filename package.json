@@ -1,6 +1,6 @@
 {
   "name": "@skeleton/microservices",
-  "version": "0.2.0",
+  "version": "0.2.4",
   "description": "Mini Framework for Microservices",
   "main": "index.js",
   "directories": {
@@ -22,6 +22,6 @@
   "homepage": "https://github.com/benavidesoficial/skeleton-microservices#readme",
   "dependencies": {
     "glob": "7.1.2",
-    "package-merge": "^0.1.2"
+    "merge-pkg": "^0.1.1"
   }
 }
