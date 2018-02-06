@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/benavidesoficial/skeleton-microservices#readme",
   "dependencies": {
-    "glob": "7.1.2"
+    "glob": "7.1.2",
+    "package-merge": "^0.1.2"
   }
 }
