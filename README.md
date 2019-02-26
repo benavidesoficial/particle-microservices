@@ -1,2 +1,2 @@
-# particle-microservices
+# skeleton-microservices
 Mini Framework for Microservices
