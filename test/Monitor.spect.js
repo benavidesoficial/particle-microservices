@@ -2,11 +2,11 @@ const http = require('http');
 const server = http.createServer();
 const Monitor = require('./../lib/Monitor');
 
-let monitor = new Monitor();
+let monitor = Monitor;
 
-monitor.discover();
+// monitor.discover();
 
-
+monitor._watchDog()
 server.listen(10001, () => {
   console.log('Server run');
 });
