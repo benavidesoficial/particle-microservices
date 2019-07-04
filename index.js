@@ -4,4 +4,3 @@ const Monitor = require('./lib/Monitor');
 
 module.exports.Microservices = Microservices;
 module.exports.Messages = Messages;
-module.exports.Monitor = Monitor;
