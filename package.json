@@ -1,6 +1,6 @@
 {
   "name": "@skeleton/microservices",
-  "version": "0.6.9",
+  "version": "0.6.8",
   "description": "Mini Framework for Microservices",
   "main": "index.js",
   "directories": {
