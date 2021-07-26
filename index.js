@@ -1,5 +1,3 @@
-const root = require('app-root-path');
-const Microservices = require(`./lib/Microservices`);
-const Messages = require(`./lib/Messages`);
+import Microservices from './lib/Microservices.js';
 
-module.exports.Microservices = new Microservices();
+export default new Microservices();
